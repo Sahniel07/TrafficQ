@@ -1,0 +1,21 @@
+{
+    "cluster_id": 13,
+    "num_vehicles": 3,
+    "vehicles": [
+        {
+            "vehicle_id": "0195f5fc-7598-79c3-b592-3a4b64cc8fc2",
+            "start_time": "2023-09-24 00:09:45",
+            "end_time": "2023-09-24 00:10:19"
+        },
+        {
+            "vehicle_id": "0195f60d-4f47-74e1-92fd-27f8f6be09e8",
+            "start_time": "2023-09-24 01:23:20",
+            "end_time": "2023-09-24 01:24:23"
+        },
+        {
+            "vehicle_id": "0195f5ff-544f-74f2-81bf-8717ef6b7528",
+            "start_time": "2023-09-24 00:18:36",
+            "end_time": "2023-09-24 00:18:50"
+        }
+    ]
+}

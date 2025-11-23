@@ -1,0 +1,275 @@
+{
+  "metadata": {
+    "total_vehicles": 450,
+    "total_data_points": 142235,
+    "collisions_detected": 10,
+    "parameters": {
+      "time_tolerance": 0.1,
+      "distance_threshold": 3.0,
+      "time_bin_size": 0.1,
+      "merge_time_tolerance": 0.5
+    }
+  },
+  "collisions": [
+    {
+      "id": 1,
+      "vehicle_a": {
+        "id": "0195f604-676d-73a3-b36e-175846386e0b",
+        "time": 1695515953.016482,
+        "time_formatted": "2023-09-24 02:39:13.016",
+        "position": {
+          "longitude": 10.535703926328287,
+          "latitude": 52.27544237923172
+        }
+      },
+      "vehicle_b": {
+        "id": "0195f604-69f8-7da2-872a-9be7e37a45ff",
+        "time": 1695515953.066482,
+        "time_formatted": "2023-09-24 02:39:13.066",
+        "position": {
+          "longitude": 10.535703237230532,
+          "latitude": 52.27543763703012
+        }
+      },
+      "distance": 0.53,
+      "time_difference": 0.05,
+      "average_time": 1695515953.041,
+      "average_time_formatted": "2023-09-24 02:39:13.041",
+      "severity": "MEDIUM"
+    },
+    {
+      "id": 2,
+      "vehicle_a": {
+        "id": "0195f60a-2ba0-7bc2-aa76-669e3a60e9a3",
+        "time": 1695517734.366482,
+        "time_formatted": "2023-09-24 03:08:54.366",
+        "position": {
+          "longitude": 10.5347402793215,
+          "latitude": 52.27534256084045
+        }
+      },
+      "vehicle_b": {
+        "id": "0195f60a-2776-7fc1-a05d-730ff8865fae",
+        "time": 1695517734.466482,
+        "time_formatted": "2023-09-24 03:08:54.466",
+        "position": {
+          "longitude": 10.534743345708169,
+          "latitude": 52.27533741386689
+        }
+      },
+      "distance": 0.61,
+      "time_difference": 0.1,
+      "average_time": 1695517734.416,
+      "average_time_formatted": "2023-09-24 03:08:54.416",
+      "severity": "MEDIUM"
+    },
+    {
+      "id": 3,
+      "vehicle_a": {
+        "id": "0195f603-00d6-72f2-9041-f74ad0843ae0",
+        "time": 1695515516.066482,
+        "time_formatted": "2023-09-24 02:31:56.066",
+        "position": {
+          "longitude": 10.53556540287082,
+          "latitude": 52.27578062173337
+        }
+      },
+      "vehicle_b": {
+        "id": "0195f602-f31a-7261-afdf-8a269953d9b2",
+        "time": 1695515516.166482,
+        "time_formatted": "2023-09-24 02:31:56.166",
+        "position": {
+          "longitude": 10.53557643549967,
+          "latitude": 52.275776435445415
+        }
+      },
+      "distance": 0.88,
+      "time_difference": 0.1,
+      "average_time": 1695515516.116,
+      "average_time_formatted": "2023-09-24 02:31:56.116",
+      "severity": "MEDIUM"
+    },
+    {
+      "id": 4,
+      "vehicle_a": {
+        "id": "0195f602-c5b3-7cf1-9160-51b8c1a780de",
+        "time": 1695515464.616482,
+        "time_formatted": "2023-09-24 02:31:04.616",
+        "position": {
+          "longitude": 10.535766190063486,
+          "latitude": 52.27563394173999
+        }
+      },
+      "vehicle_b": {
+        "id": "0195f602-784c-7fa0-837e-4a1063a666fa",
+        "time": 1695515464.716482,
+        "time_formatted": "2023-09-24 02:31:04.716",
+        "position": {
+          "longitude": 10.535791597052686,
+          "latitude": 52.27563903253153
+        }
+      },
+      "distance": 1.82,
+      "time_difference": 0.1,
+      "average_time": 1695515464.666,
+      "average_time_formatted": "2023-09-24 02:31:04.666",
+      "severity": "LOW"
+    },
+    {
+      "id": 5,
+      "vehicle_a": {
+        "id": "0195f613-2a31-7f51-8183-efd702dd9ea0",
+        "time": 1695520225.116482,
+        "time_formatted": "2023-09-24 03:50:25.116",
+        "position": {
+          "longitude": 10.53561189240732,
+          "latitude": 52.275609856421156
+        }
+      },
+      "vehicle_b": {
+        "id": "0195f612-d6fd-7660-b39e-c800f6416486",
+        "time": 1695520225.216482,
+        "time_formatted": "2023-09-24 03:50:25.216",
+        "position": {
+          "longitude": 10.535645315030642,
+          "latitude": 52.27561624783809
+        }
+      },
+      "distance": 2.38,
+      "time_difference": 0.1,
+      "average_time": 1695520225.166,
+      "average_time_formatted": "2023-09-24 03:50:25.166",
+      "severity": "LOW"
+    },
+    {
+      "id": 6,
+      "vehicle_a": {
+        "id": "0195f617-b084-7b60-a38d-9c3ccfb98bce",
+        "time": 1695521244.966482,
+        "time_formatted": "2023-09-24 04:07:24.966",
+        "position": {
+          "longitude": 10.536496636683236,
+          "latitude": 52.27573680172222
+        }
+      },
+      "vehicle_b": {
+        "id": "0195f617-ae63-70b3-9dcf-988ba5b74970",
+        "time": 1695521245.016482,
+        "time_formatted": "2023-09-24 04:07:25.016",
+        "position": {
+          "longitude": 10.536486747967988,
+          "latitude": 52.27575816851736
+        }
+      },
+      "distance": 2.47,
+      "time_difference": 0.05,
+      "average_time": 1695521244.991,
+      "average_time_formatted": "2023-09-24 04:07:24.991",
+      "severity": "LOW"
+    },
+    {
+      "id": 7,
+      "vehicle_a": {
+        "id": "0195f604-676d-73a3-b36e-175846386e0b",
+        "time": 1695515956.466482,
+        "time_formatted": "2023-09-24 02:39:16.466",
+        "position": {
+          "longitude": 10.53542846782962,
+          "latitude": 52.27555892505251
+        }
+      },
+      "vehicle_b": {
+        "id": "0195f604-69f8-7da2-872a-9be7e37a45ff",
+        "time": 1695515956.516482,
+        "time_formatted": "2023-09-24 02:39:16.516",
+        "position": {
+          "longitude": 10.535462157684263,
+          "latitude": 52.2755471031692
+        }
+      },
+      "distance": 2.64,
+      "time_difference": 0.05,
+      "average_time": 1695515956.491,
+      "average_time_formatted": "2023-09-24 02:39:16.491",
+      "severity": "LOW"
+    },
+    {
+      "id": 8,
+      "vehicle_a": {
+        "id": "0195f610-a620-7580-81f8-f1ec241f21c4",
+        "time": 1695519373.266482,
+        "time_formatted": "2023-09-24 03:36:13.266",
+        "position": {
+          "longitude": 10.536001202690072,
+          "latitude": 52.27566296166034
+        }
+      },
+      "vehicle_b": {
+        "id": "0195f610-5921-77c3-b7af-0e67651f4832",
+        "time": 1695519373.366482,
+        "time_formatted": "2023-09-24 03:36:13.366",
+        "position": {
+          "longitude": 10.536033739072373,
+          "latitude": 52.27567914373457
+        }
+      },
+      "distance": 2.85,
+      "time_difference": 0.1,
+      "average_time": 1695519373.316,
+      "average_time_formatted": "2023-09-24 03:36:13.316",
+      "severity": "LOW"
+    },
+    {
+      "id": 9,
+      "vehicle_a": {
+        "id": "0195f608-8519-7e23-8c6c-c613005e68eb",
+        "time": 1695517316.766482,
+        "time_formatted": "2023-09-24 03:01:56.766",
+        "position": {
+          "longitude": 10.535125717938097,
+          "latitude": 52.27544046625107
+        }
+      },
+      "vehicle_b": {
+        "id": "0195f608-8286-7583-942e-acb870e73b0f",
+        "time": 1695517316.866482,
+        "time_formatted": "2023-09-24 03:01:56.866",
+        "position": {
+          "longitude": 10.535129216306501,
+          "latitude": 52.275414477652305
+        }
+      },
+      "distance": 2.9,
+      "time_difference": 0.1,
+      "average_time": 1695517316.816,
+      "average_time_formatted": "2023-09-24 03:01:56.816",
+      "severity": "LOW"
+    },
+    {
+      "id": 10,
+      "vehicle_a": {
+        "id": "0195f609-906e-7cc3-9f8c-4056a3397022",
+        "time": 1695517583.916482,
+        "time_formatted": "2023-09-24 03:06:23.916",
+        "position": {
+          "longitude": 10.535169136407257,
+          "latitude": 52.27544868817964
+        }
+      },
+      "vehicle_b": {
+        "id": "0195f609-8a73-7d62-93e4-fff6ffe8a8e7",
+        "time": 1695517583.916482,
+        "time_formatted": "2023-09-24 03:06:23.916",
+        "position": {
+          "longitude": 10.535173458414052,
+          "latitude": 52.27542212028247
+        }
+      },
+      "distance": 2.97,
+      "time_difference": 0.0,
+      "average_time": 1695517583.916,
+      "average_time_formatted": "2023-09-24 03:06:23.916",
+      "severity": "LOW"
+    }
+  ]
+}

@@ -1,0 +1,2637 @@
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5f9-6666-7203-b3df-32d42e839644  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 254.6° ← at 2023-09-24 02:00:00.066482
+   • Final direction:   262.1° ← at 2023-09-24 02:00:07.266482
+   • Net turn:          7.5° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   13.73 m/s (49.43 km/h)
+   • Moving average:    13.73 m/s (49.43 km/h)
+   • Minimum speed:     11.71 m/s (42.14 km/h)
+   • Maximum speed:     14.60 m/s (52.56 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    3.08 m/s²
+   • Maximum deceleration:    2.52 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5f9-80fc-79a0-90d4-bc8c822a6f07  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 164.0° ↓ at 2023-09-24 02:00:26.066482
+   • Final direction:   161.2° ↓ at 2023-09-24 02:00:36.066482
+   • Net turn:          -2.8° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   10.30 m/s (37.07 km/h)
+   • Moving average:    10.30 m/s (37.07 km/h)
+   • Minimum speed:     6.82 m/s (24.54 km/h)
+   • Maximum speed:     13.13 m/s (47.27 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    10.50 m/s²
+   • Maximum deceleration:    7.45 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5f9-8ca8-7a13-b5c2-df800e29d282  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 344.8° ↑ at 2023-09-24 02:00:33.616482
+   • Final direction:   349.2° ↑ at 2023-09-24 02:00:47.366482
+   • Net turn:          4.4° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   10.49 m/s (37.78 km/h)
+   • Moving average:    10.49 m/s (37.78 km/h)
+   • Minimum speed:     6.73 m/s (24.25 km/h)
+   • Maximum speed:     16.52 m/s (59.47 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    7.46 m/s²
+   • Maximum deceleration:    11.62 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5f9-a216-7513-a8c7-304441f8433c  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 84.4° → at 2023-09-24 02:00:54.516482
+   • Final direction:   70.0° → at 2023-09-24 02:01:22.116482
+   • Net turn:          -14.4° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   3.76 m/s (13.54 km/h)
+   • Moving average:    6.24 m/s (22.47 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     12.67 m/s (45.63 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    11.51 m/s²
+   • Maximum deceleration:    4.81 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 2
+     └─ Stop #1: 2023-09-24 02:00:53.566482 → 2023-09-24 02:00:54.466482 (0.9 seconds)
+     └─ Stop #2: 2023-09-24 02:01:00.366482 → 2023-09-24 02:01:11.666482 (11.3 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5f9-a221-7363-9f4c-0ce5dbf0e70f  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 64.2° → at 2023-09-24 02:00:53.666482
+   • Final direction:   70.1° → at 2023-09-24 02:00:56.216482
+   • Net turn:          5.9° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   9.31 m/s (33.50 km/h)
+   • Moving average:    9.31 m/s (33.50 km/h)
+   • Minimum speed:     7.76 m/s (27.93 km/h)
+   • Maximum speed:     13.74 m/s (49.47 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    10.39 m/s²
+   • Maximum deceleration:    0.50 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5f9-a299-7802-96f5-c78d474617da  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 343.8° ↑ at 2023-09-24 02:00:53.966482
+   • Final direction:   343.8° ↑ at 2023-09-24 02:00:57.816482
+   • Net turn:          0.0° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   13.42 m/s (48.33 km/h)
+   • Moving average:    13.42 m/s (48.33 km/h)
+   • Minimum speed:     11.98 m/s (43.13 km/h)
+   • Maximum speed:     14.65 m/s (52.75 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    2.02 m/s²
+   • Maximum deceleration:    1.42 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5f9-ab71-7903-8c83-246ce6358a6f  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 341.1° ↑ at 2023-09-24 02:01:00.616482
+   • Final direction:   342.7° ↑ at 2023-09-24 02:01:06.066482
+   • Net turn:          1.6° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   9.51 m/s (34.22 km/h)
+   • Moving average:    11.13 m/s (40.08 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     12.38 m/s (44.59 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    21.47 m/s²
+   • Maximum deceleration:    3.49 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:00:59.616482 → 2023-09-24 02:01:00.566482 (1.0 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5f9-b320-7881-97a1-4c04697a9d38  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 87.1° → at 2023-09-24 02:01:05.516482
+   • Final direction:   168.5° ↓ at 2023-09-24 02:01:14.766482
+   • Net turn:          81.5° ↰ (left turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   7.82 m/s (28.14 km/h)
+   • Moving average:    8.57 m/s (30.85 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     13.26 m/s (47.75 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    18.46 m/s²
+   • Maximum deceleration:    3.73 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:01:04.566482 → 2023-09-24 02:01:05.466482 (0.9 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5f9-b36f-73c2-bc41-f6c0efdb79e6  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 84.0° → at 2023-09-24 02:01:05.416482
+   • Final direction:   70.6° → at 2023-09-24 02:01:23.916482
+   • Net turn:          -13.4° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   5.50 m/s (19.80 km/h)
+   • Moving average:    6.33 m/s (22.79 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     12.65 m/s (45.53 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    9.66 m/s²
+   • Maximum deceleration:    2.33 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 2
+     └─ Stop #1: 2023-09-24 02:01:04.766482 → 2023-09-24 02:01:05.366482 (0.6 seconds)
+     └─ Stop #2: 2023-09-24 02:01:11.316482 → 2023-09-24 02:01:13.416482 (2.1 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5f9-b741-7383-be09-a255153acaf3  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 86.6° → at 2023-09-24 02:01:07.966482
+   • Final direction:   70.5° → at 2023-09-24 02:01:27.266482
+   • Net turn:          -16.1° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   5.84 m/s (21.04 km/h)
+   • Moving average:    6.04 m/s (21.74 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     12.36 m/s (44.50 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    8.27 m/s²
+   • Maximum deceleration:    1.19 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:01:07.216482 → 2023-09-24 02:01:07.866482 (0.7 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5f9-d6a8-7ba3-a11e-f6dceb49ee43  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 347.2° ↑ at 2023-09-24 02:01:29.116482
+   • Final direction:   346.6° ↑ at 2023-09-24 02:01:34.566482
+   • Net turn:          -0.6° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   8.41 m/s (30.28 km/h)
+   • Moving average:    8.41 m/s (30.28 km/h)
+   • Minimum speed:     5.18 m/s (18.66 km/h)
+   • Maximum speed:     11.01 m/s (39.63 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    0.64 m/s²
+   • Maximum deceleration:    2.34 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5f9-df6c-7a10-94cc-cb7a4ebfdb65  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 253.3° ← at 2023-09-24 02:01:48.566482
+   • Final direction:   260.2° ← at 2023-09-24 02:02:47.716482
+   • Net turn:          6.9° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   1.92 m/s (6.91 km/h)
+   • Moving average:    5.98 m/s (21.54 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     13.98 m/s (50.32 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    4.66 m/s²
+   • Maximum deceleration:    2.94 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:01:56.066482 → 2023-09-24 02:02:36.616482 (40.5 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fa-04d1-7ac3-81e5-4e9d71142a32  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 345.8° ↑ at 2023-09-24 02:02:12.516482
+   • Final direction:   72.2° → at 2023-09-24 02:02:26.116482
+   • Net turn:          86.5° ↰ (left turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   8.48 m/s (30.52 km/h)
+   • Moving average:    8.48 m/s (30.52 km/h)
+   • Minimum speed:     5.34 m/s (19.23 km/h)
+   • Maximum speed:     13.31 m/s (47.90 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    3.62 m/s²
+   • Maximum deceleration:    5.66 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fa-0db8-7e83-8d25-96e8f2de1a21  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 24.4° ↑ at 2023-09-24 02:02:18.216482
+   • Final direction:   72.5° → at 2023-09-24 02:02:24.766482
+   • Net turn:          48.1° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   5.66 m/s (20.38 km/h)
+   • Moving average:    5.66 m/s (20.38 km/h)
+   • Minimum speed:     3.08 m/s (11.10 km/h)
+   • Maximum speed:     8.86 m/s (31.89 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    4.21 m/s²
+   • Maximum deceleration:    1.30 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fa-1bc4-74a0-aa02-50532caf00c9  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 343.9° ↑ at 2023-09-24 02:02:27.266482
+   • Final direction:   341.5° ↑ at 2023-09-24 02:02:36.066482
+   • Net turn:          -2.4° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   14.88 m/s (53.55 km/h)
+   • Moving average:    14.88 m/s (53.55 km/h)
+   • Minimum speed:     13.43 m/s (48.36 km/h)
+   • Maximum speed:     16.86 m/s (60.71 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    3.46 m/s²
+   • Maximum deceleration:    1.20 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fa-2522-78c2-a16c-1fb1d4cfe1dc  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 346.3° ↑ at 2023-09-24 02:02:33.266482
+   • Final direction:   350.5° ↑ at 2023-09-24 02:02:38.466482
+   • Net turn:          4.3° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   10.12 m/s (36.42 km/h)
+   • Moving average:    10.12 m/s (36.42 km/h)
+   • Minimum speed:     7.95 m/s (28.60 km/h)
+   • Maximum speed:     11.89 m/s (42.79 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    0.22 m/s²
+   • Maximum deceleration:    1.68 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fa-29b1-7702-903d-96642f74b81e  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 83.3° → at 2023-09-24 02:02:36.216482
+   • Final direction:   259.7° ← at 2023-09-24 02:02:50.316482
+   • Net turn:          176.3° ↺ (U-turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   5.42 m/s (19.50 km/h)
+   • Moving average:    5.42 m/s (19.50 km/h)
+   • Minimum speed:     0.61 m/s (2.20 km/h)
+   • Maximum speed:     14.12 m/s (50.83 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    5.55 m/s²
+   • Maximum deceleration:    3.17 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fa-37ae-7392-a089-f76e4bac6b55  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 251.8° ← at 2023-09-24 02:02:45.166482
+   • Final direction:   259.4° ← at 2023-09-24 02:02:53.916482
+   • Net turn:          7.5° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   13.21 m/s (47.55 km/h)
+   • Moving average:    13.21 m/s (47.55 km/h)
+   • Minimum speed:     11.71 m/s (42.17 km/h)
+   • Maximum speed:     14.40 m/s (51.86 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    3.05 m/s²
+   • Maximum deceleration:    3.29 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fa-3b22-7622-bf1e-af6b36e35473  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 252.7° ← at 2023-09-24 02:02:48.466482
+   • Final direction:   164.1° ↓ at 2023-09-24 02:03:06.966482
+   • Net turn:          -88.6° ↱ (right turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   4.14 m/s (14.92 km/h)
+   • Moving average:    4.88 m/s (17.56 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     8.63 m/s (31.07 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    14.08 m/s²
+   • Maximum deceleration:    2.42 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 2
+     └─ Stop #1: 2023-09-24 02:02:47.366482 → 2023-09-24 02:02:48.416482 (1.0 seconds)
+     └─ Stop #2: 2023-09-24 02:02:53.816482 → 2023-09-24 02:02:55.766482 (2.0 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fa-50a1-7ab1-beb9-2e7ce6834bbf  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 82.9° → at 2023-09-24 02:03:02.116482
+   • Final direction:   331.4° ↑ at 2023-09-24 02:04:16.366482
+   • Net turn:          -111.5° ↱ (right turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   1.24 m/s (4.48 km/h)
+   • Moving average:    5.00 m/s (17.99 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     9.97 m/s (35.91 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    15.24 m/s²
+   • Maximum deceleration:    2.38 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 2
+     └─ Stop #1: 2023-09-24 02:03:01.116482 → 2023-09-24 02:03:02.016482 (0.9 seconds)
+     └─ Stop #2: 2023-09-24 02:03:06.266482 → 2023-09-24 02:04:03.466482 (57.2 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fa-5667-7182-8eee-929c23a7d4ec  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 254.5° ← at 2023-09-24 02:03:04.866482
+   • Final direction:   262.0° ← at 2023-09-24 02:03:13.716482
+   • Net turn:          7.4° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   12.22 m/s (43.99 km/h)
+   • Moving average:    12.22 m/s (43.99 km/h)
+   • Minimum speed:     11.30 m/s (40.68 km/h)
+   • Maximum speed:     15.15 m/s (54.53 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    4.35 m/s²
+   • Maximum deceleration:    1.17 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fa-8782-7ec2-8005-cf3f267fe106  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 343.6° ↑ at 2023-09-24 02:03:36.316482
+   • Final direction:   340.2° ↑ at 2023-09-24 02:03:46.366482
+   • Net turn:          -3.4° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   15.17 m/s (54.60 km/h)
+   • Moving average:    15.17 m/s (54.60 km/h)
+   • Minimum speed:     13.27 m/s (47.77 km/h)
+   • Maximum speed:     17.62 m/s (63.43 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    3.79 m/s²
+   • Maximum deceleration:    3.29 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fa-a3bb-7fb0-89e0-3b32aeb5e904  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 342.6° ↑ at 2023-09-24 02:03:54.316482
+   • Final direction:   262.1° ← at 2023-09-24 02:04:04.016482
+   • Net turn:          -80.5° ↱ (right turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   12.28 m/s (44.19 km/h)
+   • Moving average:    12.28 m/s (44.19 km/h)
+   • Minimum speed:     8.02 m/s (28.88 km/h)
+   • Maximum speed:     21.77 m/s (78.36 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    2.56 m/s²
+   • Maximum deceleration:    10.55 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fa-ab9c-78c2-9ee4-2aa17b3d6394  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 89.8° → at 2023-09-24 02:03:59.416482
+   • Final direction:   153.7° ↓ at 2023-09-24 02:04:04.266482
+   • Net turn:          63.9° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   7.52 m/s (27.07 km/h)
+   • Moving average:    7.52 m/s (27.07 km/h)
+   • Minimum speed:     6.08 m/s (21.89 km/h)
+   • Maximum speed:     9.81 m/s (35.33 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    1.13 m/s²
+   • Maximum deceleration:    1.66 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fa-c65b-7ff2-86a0-709d5bafe477  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 253.0° ← at 2023-09-24 02:04:45.866482
+   • Final direction:   248.6° ← at 2023-09-24 02:05:38.216482
+   • Net turn:          -4.3° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   0.67 m/s (2.42 km/h)
+   • Moving average:    2.55 m/s (9.18 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     7.29 m/s (26.25 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    1.95 m/s²
+   • Maximum deceleration:    1.46 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 2
+     └─ Stop #1: 2023-09-24 02:04:52.816482 → 2023-09-24 02:04:59.316482 (6.5 seconds)
+     └─ Stop #2: 2023-09-24 02:05:00.816482 → 2023-09-24 02:05:35.966482 (35.1 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fa-e830-7cb3-9dca-03ce328fc342  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 343.6° ↑ at 2023-09-24 02:05:07.566482
+   • Final direction:   260.5° ← at 2023-09-24 02:05:19.416482
+   • Net turn:          -83.1° ↱ (right turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   8.89 m/s (32.00 km/h)
+   • Moving average:    8.89 m/s (32.00 km/h)
+   • Minimum speed:     6.85 m/s (24.67 km/h)
+   • Maximum speed:     12.35 m/s (44.46 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    7.67 m/s²
+   • Maximum deceleration:    8.50 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fa-e830-7cb3-9dca-03d31c51b8be  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 347.5° ↑ at 2023-09-24 02:05:07.566482
+   • Final direction:   68.7° → at 2023-09-24 02:05:19.366482
+   • Net turn:          81.2° ↰ (left turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   8.89 m/s (31.99 km/h)
+   • Moving average:    8.89 m/s (31.99 km/h)
+   • Minimum speed:     5.24 m/s (18.87 km/h)
+   • Maximum speed:     14.94 m/s (53.80 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    4.54 m/s²
+   • Maximum deceleration:    13.81 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fa-f627-7a23-a7cf-e4b00f43d6df  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 87.4° → at 2023-09-24 02:05:16.516482
+   • Final direction:   163.7° ↓ at 2023-09-24 02:05:27.666482
+   • Net turn:          76.3° ↰ (left turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   9.12 m/s (32.85 km/h)
+   • Moving average:    9.21 m/s (33.14 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     38.18 m/s (137.43 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    8.00 m/s²
+   • Maximum deceleration:    10.93 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:05:22.366482 → 2023-09-24 02:05:22.466482 (0.1 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fa-f8bc-75b0-9680-ee63d2c4bbc8  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 347.0° ↑ at 2023-09-24 02:05:18.166482
+   • Final direction:   70.0° → at 2023-09-24 02:05:28.316482
+   • Net turn:          82.9° ↰ (left turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   10.40 m/s (37.45 km/h)
+   • Moving average:    10.61 m/s (38.20 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     80.69 m/s (290.49 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    3.32 m/s²
+   • Maximum deceleration:    6.24 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:05:22.266482 → 2023-09-24 02:05:22.466482 (0.2 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fb-01ea-7543-801d-2b808ad249ab  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 343.1° ↑ at 2023-09-24 02:05:25.566482
+   • Final direction:   261.1° ← at 2023-09-24 02:06:46.016482
+   • Net turn:          -82.0° ↱ (right turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   1.59 m/s (5.74 km/h)
+   • Moving average:    5.23 m/s (18.84 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     10.86 m/s (39.10 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    17.95 m/s²
+   • Maximum deceleration:    2.06 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 3
+     └─ Stop #1: 2023-09-24 02:05:24.016482 → 2023-09-24 02:05:25.516482 (1.5 seconds)
+     └─ Stop #2: 2023-09-24 02:05:33.566482 → 2023-09-24 02:06:04.366482 (30.8 seconds)
+     └─ Stop #3: 2023-09-24 02:06:05.516482 → 2023-09-24 02:06:34.066482 (28.5 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fb-020f-7401-a4b6-c2d7148077fb  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 343.5° ↑ at 2023-09-24 02:05:25.166482
+   • Final direction:   339.9° ↑ at 2023-09-24 02:05:33.516482
+   • Net turn:          -3.6° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   4.79 m/s (17.25 km/h)
+   • Moving average:    5.36 m/s (19.28 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     11.14 m/s (40.10 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    18.89 m/s²
+   • Maximum deceleration:    3.14 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:05:24.066482 → 2023-09-24 02:05:25.116482 (1.0 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fb-072e-7900-b968-f0f9793e3a08  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 344.7° ↑ at 2023-09-24 02:05:28.166482
+   • Final direction:   343.9° ↑ at 2023-09-24 02:05:34.016482
+   • Net turn:          -0.8° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   4.53 m/s (16.29 km/h)
+   • Moving average:    4.96 m/s (17.87 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     8.40 m/s (30.24 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    8.53 m/s²
+   • Maximum deceleration:    1.83 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:05:27.366482 → 2023-09-24 02:05:28.066482 (0.7 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fb-08b7-7c41-95af-9146a1936af6  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 346.8° ↑ at 2023-09-24 02:05:28.716482
+   • Final direction:   354.4° ↑ at 2023-09-24 02:05:35.266482
+   • Net turn:          7.6° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   5.54 m/s (19.94 km/h)
+   • Moving average:    5.72 m/s (20.59 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     14.36 m/s (51.71 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    11.26 m/s²
+   • Maximum deceleration:    3.32 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:05:28.366482 → 2023-09-24 02:05:28.616482 (0.2 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fb-0df6-7112-87e1-004a8647d30f  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 86.6° → at 2023-09-24 02:05:32.066482
+   • Final direction:   70.7° → at 2023-09-24 02:05:40.916482
+   • Net turn:          -15.9° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   12.58 m/s (45.27 km/h)
+   • Moving average:    13.00 m/s (46.79 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     14.01 m/s (50.43 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    16.43 m/s²
+   • Maximum deceleration:    1.04 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:05:31.716482 → 2023-09-24 02:05:32.016482 (0.3 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fb-141f-7c32-ba1f-05448ec27564  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 83.6° → at 2023-09-24 02:05:36.066482
+   • Final direction:   74.1° → at 2023-09-24 02:05:43.116482
+   • Net turn:          -9.5° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   12.42 m/s (44.73 km/h)
+   • Moving average:    12.86 m/s (46.28 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     13.80 m/s (49.70 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    12.47 m/s²
+   • Maximum deceleration:    1.34 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:05:35.716482 → 2023-09-24 02:05:35.966482 (0.2 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fb-17b2-7f41-9d26-72ef6fcb3d3f  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 256.7° ← at 2023-09-24 02:05:38.066482
+   • Final direction:   261.1° ← at 2023-09-24 02:05:44.316482
+   • Net turn:          4.4° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   11.94 m/s (42.97 km/h)
+   • Moving average:    11.94 m/s (42.97 km/h)
+   • Minimum speed:     6.37 m/s (22.94 km/h)
+   • Maximum speed:     15.28 m/s (55.01 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    2.69 m/s²
+   • Maximum deceleration:    1.89 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fb-2cbf-7e42-a4d3-24e16e0bdcbf  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 343.6° ↑ at 2023-09-24 02:05:51.516482
+   • Final direction:   349.2° ↑ at 2023-09-24 02:06:42.466482
+   • Net turn:          5.6° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   0.79 m/s (2.83 km/h)
+   • Moving average:    3.90 m/s (14.05 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     10.01 m/s (36.03 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    1.91 m/s²
+   • Maximum deceleration:    2.29 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:05:57.566482 → 2023-09-24 02:06:40.316482 (42.8 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fb-6d0f-7211-b75e-6648525c667d  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 341.2° ↑ at 2023-09-24 02:06:33.083149
+   • Final direction:   69.9° → at 2023-09-24 02:06:39.966482
+   • Net turn:          88.7° ↰ (left turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   6.09 m/s (21.92 km/h)
+   • Moving average:    6.30 m/s (22.69 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     11.74 m/s (42.27 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    6.97 m/s²
+   • Maximum deceleration:    2.12 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:06:32.716482 → 2023-09-24 02:06:33.116482 (0.4 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fb-76bd-71a3-9825-087b40a99587  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 28.5° ↑ at 2023-09-24 02:06:39.366482
+   • Final direction:   261.8° ← at 2023-09-24 02:06:48.716482
+   • Net turn:          -126.7° ↱ (right turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   7.39 m/s (26.62 km/h)
+   • Moving average:    7.70 m/s (27.74 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     11.11 m/s (40.00 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    6.61 m/s²
+   • Maximum deceleration:    0.39 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:06:38.866482 → 2023-09-24 02:06:39.266482 (0.4 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fb-7dd5-7ed3-a325-de5fa3ecd3f0  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 346.8° ↑ at 2023-09-24 02:06:43.816482
+   • Final direction:   261.0° ← at 2023-09-24 02:06:51.216482
+   • Net turn:          -85.8° ↱ (right turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   7.87 m/s (28.33 km/h)
+   • Moving average:    8.18 m/s (29.46 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     10.81 m/s (38.93 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    10.23 m/s²
+   • Maximum deceleration:    0.98 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:06:43.466482 → 2023-09-24 02:06:43.766482 (0.3 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fb-80d9-7df0-be45-239f584719b6  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 346.5° ↑ at 2023-09-24 02:06:45.716482
+   • Final direction:   260.4° ← at 2023-09-24 02:06:53.116482
+   • Net turn:          -86.2° ↱ (right turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   7.93 m/s (28.54 km/h)
+   • Moving average:    8.19 m/s (29.49 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     11.48 m/s (41.31 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    11.03 m/s²
+   • Maximum deceleration:    0.82 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:06:45.366482 → 2023-09-24 02:06:45.616482 (0.2 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fb-80e8-7593-b54b-5f81ef2c5c3d  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 89.2° → at 2023-09-24 02:06:45.966482
+   • Final direction:   159.9° ↓ at 2023-09-24 02:06:56.066482
+   • Net turn:          70.7° ↰ (left turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   9.25 m/s (33.31 km/h)
+   • Moving average:    9.71 m/s (34.94 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     14.69 m/s (52.89 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    25.54 m/s²
+   • Maximum deceleration:    2.87 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:06:45.416482 → 2023-09-24 02:06:45.916482 (0.5 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fb-8505-7723-ade2-98dd335b1ec1  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 88.5° → at 2023-09-24 02:06:49.016482
+   • Final direction:   160.5° ↓ at 2023-09-24 02:08:08.666482
+   • Net turn:          72.1° ↰ (left turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   1.36 m/s (4.90 km/h)
+   • Moving average:    3.68 m/s (13.26 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     14.48 m/s (52.13 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    19.38 m/s²
+   • Maximum deceleration:    6.56 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 6
+     └─ Stop #1: 2023-09-24 02:06:48.066482 → 2023-09-24 02:06:48.966482 (0.9 seconds)
+     └─ Stop #2: 2023-09-24 02:06:54.016482 → 2023-09-24 02:06:56.016482 (2.0 seconds)
+     └─ Stop #3: 2023-09-24 02:06:57.316482 → 2023-09-24 02:07:28.166482 (30.8 seconds)
+     └─ Stop #4: 2023-09-24 02:07:29.516482 → 2023-09-24 02:07:29.716482 (0.2 seconds)
+     └─ Stop #5: 2023-09-24 02:07:31.066482 → 2023-09-24 02:07:33.116482 (2.0 seconds)
+     └─ Stop #6: 2023-09-24 02:07:35.516482 → 2023-09-24 02:07:59.766482 (24.2 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fb-8629-74a2-bba0-1720752abad3  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 85.6° → at 2023-09-24 02:06:48.816482
+   • Final direction:   85.6° → at 2023-09-24 02:06:53.866482
+   • Net turn:          -0.0° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   6.75 m/s (24.30 km/h)
+   • Moving average:    6.75 m/s (24.30 km/h)
+   • Minimum speed:     2.70 m/s (9.72 km/h)
+   • Maximum speed:     10.58 m/s (38.08 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    1.87 m/s²
+   • Maximum deceleration:    5.81 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fb-e390-7ed2-a9aa-067aead1d486  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 251.1° ← at 2023-09-24 02:07:47.066482
+   • Final direction:   263.1° ← at 2023-09-24 02:08:28.816482
+   • Net turn:          12.0° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   2.52 m/s (9.06 km/h)
+   • Moving average:    5.05 m/s (18.19 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     13.03 m/s (46.92 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    7.84 m/s²
+   • Maximum deceleration:    1.35 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 2
+     └─ Stop #1: 2023-09-24 02:07:45.916482 → 2023-09-24 02:07:47.016482 (1.1 seconds)
+     └─ Stop #2: 2023-09-24 02:07:56.916482 → 2023-09-24 02:08:18.416482 (21.5 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fb-fd9b-7a60-8a85-4ba4f7dcff12  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 82.6° → at 2023-09-24 02:08:03.116482
+   • Final direction:   148.9° ↓ at 2023-09-24 02:08:08.316482
+   • Net turn:          66.3° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   5.36 m/s (19.29 km/h)
+   • Moving average:    5.71 m/s (20.56 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     6.32 m/s (22.77 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    7.59 m/s²
+   • Maximum deceleration:    0.77 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:08:02.716482 → 2023-09-24 02:08:03.066482 (0.4 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fc-00c5-7b50-8b40-6f401c35634b  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 84.3° → at 2023-09-24 02:08:05.366482
+   • Final direction:   153.9° ↓ at 2023-09-24 02:08:10.666482
+   • Net turn:          69.5° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   5.01 m/s (18.02 km/h)
+   • Moving average:    5.47 m/s (19.68 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     14.67 m/s (52.83 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    9.57 m/s²
+   • Maximum deceleration:    1.67 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:08:04.766482 → 2023-09-24 02:08:05.266482 (0.5 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fc-262d-7401-a63d-0b0d37e41abc  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 254.2° ← at 2023-09-24 02:08:30.166482
+   • Final direction:   259.4° ← at 2023-09-24 02:08:38.116482
+   • Net turn:          5.1° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   14.49 m/s (52.16 km/h)
+   • Moving average:    14.49 m/s (52.16 km/h)
+   • Minimum speed:     12.47 m/s (44.91 km/h)
+   • Maximum speed:     18.09 m/s (65.11 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    4.22 m/s²
+   • Maximum deceleration:    3.59 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fc-62f3-7712-8851-73635a228fe3  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 84.3° → at 2023-09-24 02:09:36.316482
+   • Final direction:   71.3° → at 2023-09-24 02:09:53.216482
+   • Net turn:          -13.1° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   5.08 m/s (18.30 km/h)
+   • Moving average:    6.21 m/s (22.37 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     15.39 m/s (55.40 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    5.63 m/s²
+   • Maximum deceleration:    1.64 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 2
+     └─ Stop #1: 2023-09-24 02:09:33.866482 → 2023-09-24 02:09:36.216482 (2.3 seconds)
+     └─ Stop #2: 2023-09-24 02:09:41.716482 → 2023-09-24 02:09:42.916482 (1.2 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fc-6bfb-70a0-bb48-4e57f9cfabe8  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 343.8° ↑ at 2023-09-24 02:09:39.766482
+   • Final direction:   343.8° ↑ at 2023-09-24 02:09:44.866482
+   • Net turn:          0.0° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   7.54 m/s (27.13 km/h)
+   • Moving average:    7.54 m/s (27.13 km/h)
+   • Minimum speed:     4.33 m/s (15.57 km/h)
+   • Maximum speed:     9.64 m/s (34.69 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    0.70 m/s²
+   • Maximum deceleration:    2.22 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fc-7598-79c3-b592-3a4b64cc8fc2  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 87.0° → at 2023-09-24 02:09:46.616482
+   • Final direction:   84.3° → at 2023-09-24 02:09:52.466482
+   • Net turn:          -2.7° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   1.47 m/s (5.28 km/h)
+   • Moving average:    2.68 m/s (9.66 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     10.05 m/s (36.19 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    11.61 m/s²
+   • Maximum deceleration:    3.29 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 4
+     └─ Stop #1: 2023-09-24 02:09:45.916482 → 2023-09-24 02:09:46.566482 (0.7 seconds)
+     └─ Stop #2: 2023-09-24 02:09:55.016482 → 2023-09-24 02:09:56.616482 (1.6 seconds)
+     └─ Stop #3: 2023-09-24 02:10:00.416482 → 2023-09-24 02:10:11.416482 (11.0 seconds)
+     └─ Stop #4: 2023-09-24 02:10:13.516482 → 2023-09-24 02:10:18.416482 (4.9 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fc-ab76-7f40-a095-6d66e3c67769  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 84.7° → at 2023-09-24 02:10:20.666482
+   • Final direction:   76.7° → at 2023-09-24 02:10:27.866482
+   • Net turn:          -8.0° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   1.19 m/s (4.27 km/h)
+   • Moving average:    2.69 m/s (9.68 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     6.75 m/s (24.29 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    0.69 m/s²
+   • Maximum deceleration:    2.19 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:10:29.716482 → 2023-09-24 02:10:43.766482 (14.1 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fc-b9df-7c13-b505-ac9b31019ec4  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 261.5° ← at 2023-09-24 02:10:30.866482
+   • Final direction:   257.1° ← at 2023-09-24 02:11:11.016482
+   • Net turn:          -4.4° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   0.45 m/s (1.61 km/h)
+   • Moving average:    1.33 m/s (4.79 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     4.91 m/s (17.66 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    4.51 m/s²
+   • Maximum deceleration:    0.82 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 3
+     └─ Stop #1: 2023-09-24 02:10:29.816482 → 2023-09-24 02:10:30.816482 (1.0 seconds)
+     └─ Stop #2: 2023-09-24 02:10:33.116482 → 2023-09-24 02:10:33.166482 (0.0 seconds)
+     └─ Stop #3: 2023-09-24 02:10:38.766482 → 2023-09-24 02:11:06.866482 (28.1 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fc-c146-7961-aa30-c82bd3c236bf  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 162.0° ↓ at 2023-09-24 02:10:34.616482
+   • Final direction:   160.0° ↓ at 2023-09-24 02:10:40.666482
+   • Net turn:          -2.0° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   11.96 m/s (43.06 km/h)
+   • Moving average:    11.96 m/s (43.06 km/h)
+   • Minimum speed:     10.53 m/s (37.91 km/h)
+   • Maximum speed:     12.84 m/s (46.22 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    2.47 m/s²
+   • Maximum deceleration:    2.11 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fc-db32-7772-8669-dedd0e996cba  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 341.6° ↑ at 2023-09-24 02:10:51.216482
+   • Final direction:   262.8° ← at 2023-09-24 02:11:00.016482
+   • Net turn:          -78.8° ↱ (right turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   8.31 m/s (29.92 km/h)
+   • Moving average:    8.31 m/s (29.92 km/h)
+   • Minimum speed:     4.88 m/s (17.58 km/h)
+   • Maximum speed:     11.76 m/s (42.32 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    2.86 m/s²
+   • Maximum deceleration:    1.07 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fc-dc54-7392-977a-76c1866ace13  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 347.3° ↑ at 2023-09-24 02:10:51.916482
+   • Final direction:   67.9° → at 2023-09-24 02:11:05.666482
+   • Net turn:          80.6° ↰ (left turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   7.95 m/s (28.64 km/h)
+   • Moving average:    7.95 m/s (28.64 km/h)
+   • Minimum speed:     5.32 m/s (19.16 km/h)
+   • Maximum speed:     10.88 m/s (39.17 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    1.72 m/s²
+   • Maximum deceleration:    1.63 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fc-deff-78e3-8c24-0a0c4f2896d9  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 90.5° → at 2023-09-24 02:10:53.616482
+   • Final direction:   167.9° ↓ at 2023-09-24 02:11:02.216482
+   • Net turn:          77.4° ↰ (left turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   5.56 m/s (20.01 km/h)
+   • Moving average:    5.56 m/s (20.01 km/h)
+   • Minimum speed:     3.99 m/s (14.38 km/h)
+   • Maximum speed:     7.99 m/s (28.78 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    2.90 m/s²
+   • Maximum deceleration:    1.84 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fc-e89b-7100-8c32-e387f1b2f331  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 110.4° → at 2023-09-24 02:10:59.816482
+   • Final direction:   157.9° ↓ at 2023-09-24 02:11:05.566482
+   • Net turn:          47.5° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   8.21 m/s (29.56 km/h)
+   • Moving average:    8.21 m/s (29.56 km/h)
+   • Minimum speed:     5.31 m/s (19.13 km/h)
+   • Maximum speed:     13.90 m/s (50.04 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    7.02 m/s²
+   • Maximum deceleration:    3.07 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fc-f429-7f51-81ed-87539f0dd205  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 82.9° → at 2023-09-24 02:11:08.516482
+   • Final direction:   72.2° → at 2023-09-24 02:11:17.466482
+   • Net turn:          -10.7° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   9.98 m/s (35.94 km/h)
+   • Moving average:    11.42 m/s (41.10 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     12.76 m/s (45.93 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    11.03 m/s²
+   • Maximum deceleration:    2.06 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:11:07.166482 → 2023-09-24 02:11:08.466482 (1.3 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fc-fbf6-7fb3-b088-219fc9373f24  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 251.7° ← at 2023-09-24 02:11:12.216482
+   • Final direction:   259.3° ← at 2023-09-24 02:11:21.216482
+   • Net turn:          7.6° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   14.49 m/s (52.16 km/h)
+   • Moving average:    14.49 m/s (52.16 km/h)
+   • Minimum speed:     12.94 m/s (46.59 km/h)
+   • Maximum speed:     15.40 m/s (55.43 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    1.95 m/s²
+   • Maximum deceleration:    1.72 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fc-fd10-79e0-b759-9652f4e55f13  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 256.0° ← at 2023-09-24 02:11:12.966482
+   • Final direction:   260.4° ← at 2023-09-24 02:11:17.916482
+   • Net turn:          4.5° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   11.30 m/s (40.67 km/h)
+   • Moving average:    11.30 m/s (40.67 km/h)
+   • Minimum speed:     9.42 m/s (33.93 km/h)
+   • Maximum speed:     12.91 m/s (46.49 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    1.79 m/s²
+   • Maximum deceleration:    1.39 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fd-11ed-7cf3-af4e-bc57d0db8214  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 162.6° ↓ at 2023-09-24 02:11:54.616482
+   • Final direction:   159.6° ↓ at 2023-09-24 02:11:58.966482
+   • Net turn:          -3.0° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   12.95 m/s (46.61 km/h)
+   • Moving average:    12.95 m/s (46.61 km/h)
+   • Minimum speed:     11.95 m/s (43.03 km/h)
+   • Maximum speed:     13.33 m/s (47.97 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    2.12 m/s²
+   • Maximum deceleration:    0.86 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fd-2379-7bb2-bbba-85a31bfc592a  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 345.9° ↑ at 2023-09-24 02:12:10.166482
+   • Final direction:   67.8° → at 2023-09-24 02:12:21.466482
+   • Net turn:          81.9° ↰ (left turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   9.30 m/s (33.46 km/h)
+   • Moving average:    9.94 m/s (35.80 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     14.63 m/s (52.67 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    20.30 m/s²
+   • Maximum deceleration:    2.91 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:12:09.266482 → 2023-09-24 02:12:10.066482 (0.8 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fd-3019-7723-ada8-c13c557c1aeb  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 31.0° ↑ at 2023-09-24 02:12:17.999815
+   • Final direction:   150.7° ↓ at 2023-09-24 02:12:22.866482
+   • Net turn:          119.7° ↰ (left turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   4.77 m/s (17.17 km/h)
+   • Moving average:    5.38 m/s (19.38 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     6.35 m/s (22.87 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    8.29 m/s²
+   • Maximum deceleration:    15.86 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 2
+     └─ Stop #1: 2023-09-24 02:12:17.416482 → 2023-09-24 02:12:18.116482 (0.7 seconds)
+     └─ Stop #2: 2023-09-24 02:12:22.966482 → 2023-09-24 02:12:23.116482 (0.2 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fd-37d6-78d2-9651-86f23f2f7833  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 342.4° ↑ at 2023-09-24 02:12:22.716482
+   • Final direction:   342.7° ↑ at 2023-09-24 02:12:32.666482
+   • Net turn:          0.3° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   12.99 m/s (46.76 km/h)
+   • Moving average:    13.31 m/s (47.92 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     16.64 m/s (59.89 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    15.52 m/s²
+   • Maximum deceleration:    2.38 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:12:22.416482 → 2023-09-24 02:12:22.666482 (0.2 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fd-3cd8-7240-81cd-ec9787c9838e  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 88.6° → at 2023-09-24 02:12:26.366482
+   • Final direction:   163.8° ↓ at 2023-09-24 02:12:36.466482
+   • Net turn:          75.2° ↰ (left turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   8.87 m/s (31.92 km/h)
+   • Moving average:    9.43 m/s (33.96 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     14.39 m/s (51.81 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    17.45 m/s²
+   • Maximum deceleration:    2.76 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:12:25.666482 → 2023-09-24 02:12:26.316482 (0.7 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fd-4052-7fd1-9467-9ee193b339de  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 342.6° ↑ at 2023-09-24 02:12:28.866482
+   • Final direction:   342.9° ↑ at 2023-09-24 02:13:20.916482
+   • Net turn:          0.3° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   1.47 m/s (5.28 km/h)
+   • Moving average:    5.39 m/s (19.39 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     12.48 m/s (44.94 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    20.05 m/s²
+   • Maximum deceleration:    4.01 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 2
+     └─ Stop #1: 2023-09-24 02:12:27.916482 → 2023-09-24 02:12:28.816482 (0.9 seconds)
+     └─ Stop #2: 2023-09-24 02:12:34.866482 → 2023-09-24 02:13:14.016482 (39.2 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fd-693b-7b63-abd1-659e5875a378  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 251.9° ← at 2023-09-24 02:12:54.516482
+   • Final direction:   174.7° ↓ at 2023-09-24 02:13:02.866482
+   • Net turn:          -77.1° ↱ (right turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   8.52 m/s (30.68 km/h)
+   • Moving average:    8.52 m/s (30.68 km/h)
+   • Minimum speed:     7.01 m/s (25.23 km/h)
+   • Maximum speed:     9.61 m/s (34.59 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    1.43 m/s²
+   • Maximum deceleration:    1.20 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fd-9263-7bd0-833f-461c7b3c8e90  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 339.4° ↑ at 2023-09-24 02:13:21.516482
+   • Final direction:   342.7° ↑ at 2023-09-24 02:13:25.666482
+   • Net turn:          3.2° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   10.33 m/s (37.20 km/h)
+   • Moving average:    10.33 m/s (37.20 km/h)
+   • Minimum speed:     9.41 m/s (33.88 km/h)
+   • Maximum speed:     11.53 m/s (41.49 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    2.38 m/s²
+   • Maximum deceleration:    0.94 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fd-9d97-7241-883f-8dc672cef8bc  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 162.5° ↓ at 2023-09-24 02:13:41.766482
+   • Final direction:   167.2° ↓ at 2023-09-24 02:13:45.066482
+   • Net turn:          4.7° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   8.49 m/s (30.56 km/h)
+   • Moving average:    8.49 m/s (30.56 km/h)
+   • Minimum speed:     6.88 m/s (24.77 km/h)
+   • Maximum speed:     10.45 m/s (37.61 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    0.55 m/s²
+   • Maximum deceleration:    2.59 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fd-a48a-7f73-86ce-463ab5f326b3  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 256.0° ← at 2023-09-24 02:13:54.266482
+   • Final direction:   261.3° ← at 2023-09-24 02:14:07.016482
+   • Net turn:          5.3° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   9.55 m/s (34.36 km/h)
+   • Moving average:    10.10 m/s (36.37 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     21.35 m/s (76.88 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    9.93 m/s²
+   • Maximum deceleration:    2.20 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:13:53.466482 → 2023-09-24 02:13:54.216482 (0.8 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fd-b520-7650-9860-b5bb2827cbb2  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 84.6° → at 2023-09-24 02:14:04.816482
+   • Final direction:   84.8° → at 2023-09-24 02:14:07.366482
+   • Net turn:          0.1° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   3.83 m/s (13.79 km/h)
+   • Moving average:    4.70 m/s (16.91 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     7.59 m/s (27.32 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    11.39 m/s²
+   • Maximum deceleration:    6.64 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:14:04.166482 → 2023-09-24 02:14:04.766482 (0.6 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fd-cfd1-7293-a908-6271619b537f  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 346.5° ↑ at 2023-09-24 02:14:21.416482
+   • Final direction:   343.2° ↑ at 2023-09-24 02:14:29.116482
+   • Net turn:          -3.3° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   5.37 m/s (19.32 km/h)
+   • Moving average:    5.37 m/s (19.32 km/h)
+   • Minimum speed:     1.05 m/s (3.78 km/h)
+   • Maximum speed:     7.81 m/s (28.13 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    0.13 m/s²
+   • Maximum deceleration:    2.78 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fe-134d-7e20-aebd-e49cd353b5e9  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 355.9° ↑ at 2023-09-24 02:15:04.316482
+   • Final direction:   66.9° → at 2023-09-24 02:15:09.266482
+   • Net turn:          71.0° ↰ (left turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   5.02 m/s (18.07 km/h)
+   • Moving average:    5.67 m/s (20.41 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     17.54 m/s (63.13 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    5.32 m/s²
+   • Maximum deceleration:    2.31 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 2
+     └─ Stop #1: 2023-09-24 02:15:03.666482 → 2023-09-24 02:15:04.266482 (0.6 seconds)
+     └─ Stop #2: 2023-09-24 02:15:05.616482 → 2023-09-24 02:15:06.416482 (0.8 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fe-19ae-7d91-9f33-708a8cc5b18d  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 64.7° → at 2023-09-24 02:15:08.449816
+   • Final direction:   138.5° ↓ at 2023-09-24 02:15:12.866482
+   • Net turn:          73.8° ↰ (left turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   5.12 m/s (18.42 km/h)
+   • Moving average:    5.74 m/s (20.65 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     9.35 m/s (33.67 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    7.02 m/s²
+   • Maximum deceleration:    0.31 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:15:07.816482 → 2023-09-24 02:15:08.366482 (0.5 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fe-1ce1-76c0-a21c-b766491d763c  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 83.8° → at 2023-09-24 02:15:10.516482
+   • Final direction:   157.9° ↓ at 2023-09-24 02:15:18.166482
+   • Net turn:          74.1° ↰ (left turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   5.43 m/s (19.55 km/h)
+   • Moving average:    5.81 m/s (20.93 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     13.42 m/s (48.32 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    7.26 m/s²
+   • Maximum deceleration:    0.74 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:15:09.866482 → 2023-09-24 02:15:10.416482 (0.5 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fe-2892-7211-af40-77c4990ea5de  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 88.3° → at 2023-09-24 02:15:17.416482
+   • Final direction:   165.4° ↓ at 2023-09-24 02:15:25.266482
+   • Net turn:          77.1° ↰ (left turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   11.07 m/s (39.84 km/h)
+   • Moving average:    11.07 m/s (39.84 km/h)
+   • Minimum speed:     7.20 m/s (25.91 km/h)
+   • Maximum speed:     27.14 m/s (97.72 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    2.43 m/s²
+   • Maximum deceleration:    4.67 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fe-2c2a-7003-b898-0806afcda0b2  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 345.2° ↑ at 2023-09-24 02:15:20.116482
+   • Final direction:   69.7° → at 2023-09-24 02:16:32.366482
+   • Net turn:          84.5° ↰ (left turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   1.55 m/s (5.58 km/h)
+   • Moving average:    4.95 m/s (17.83 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     17.67 m/s (63.61 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    18.36 m/s²
+   • Maximum deceleration:    7.24 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 4
+     └─ Stop #1: 2023-09-24 02:15:19.666482 → 2023-09-24 02:15:20.066482 (0.4 seconds)
+     └─ Stop #2: 2023-09-24 02:15:27.516482 → 2023-09-24 02:16:18.866482 (51.3 seconds)
+     └─ Stop #3: 2023-09-24 02:16:20.166482 → 2023-09-24 02:16:23.566482 (3.4 seconds)
+     └─ Stop #4: 2023-09-24 02:16:25.166482 → 2023-09-24 02:16:25.266482 (0.1 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fe-44ab-7751-8283-23c18a7a5e2b  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 343.7° ↑ at 2023-09-24 02:15:35.416482
+   • Final direction:   343.7° ↑ at 2023-09-24 02:15:40.366482
+   • Net turn:          0.0° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   8.06 m/s (29.02 km/h)
+   • Moving average:    8.06 m/s (29.02 km/h)
+   • Minimum speed:     4.97 m/s (17.88 km/h)
+   • Maximum speed:     11.58 m/s (41.70 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    -0.89 m/s²
+   • Maximum deceleration:    1.60 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fe-721f-7853-aaba-e97957b4d64b  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 252.1° ← at 2023-09-24 02:16:04.466482
+   • Final direction:   160.7° ↓ at 2023-09-24 02:17:21.766482
+   • Net turn:          -91.4° ↱ (right turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   1.47 m/s (5.29 km/h)
+   • Moving average:    5.09 m/s (18.32 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     50.34 m/s (181.22 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    8.92 m/s²
+   • Maximum deceleration:    10.43 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 3
+     └─ Stop #1: 2023-09-24 02:16:10.066482 → 2023-09-24 02:17:05.516482 (55.5 seconds)
+     └─ Stop #2: 2023-09-24 02:17:06.566482 → 2023-09-24 02:17:06.616482 (0.0 seconds)
+     └─ Stop #3: 2023-09-24 02:17:08.566482 → 2023-09-24 02:17:08.616482 (0.0 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fe-7252-7da0-bbe4-8c71dbf2622e  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 176.1° ↓ at 2023-09-24 02:16:04.566482
+   • Final direction:   259.7° ← at 2023-09-24 02:16:11.016482
+   • Net turn:          83.6° ↰ (left turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   5.57 m/s (20.04 km/h)
+   • Moving average:    5.57 m/s (20.04 km/h)
+   • Minimum speed:     3.69 m/s (13.27 km/h)
+   • Maximum speed:     7.61 m/s (27.38 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    2.66 m/s²
+   • Maximum deceleration:    1.55 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fe-9edd-7101-903f-769b0259158c  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 343.0° ↑ at 2023-09-24 02:16:30.416482
+   • Final direction:   262.1° ← at 2023-09-24 02:16:38.716482
+   • Net turn:          -80.9° ↱ (right turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   8.80 m/s (31.69 km/h)
+   • Moving average:    8.80 m/s (31.69 km/h)
+   • Minimum speed:     3.47 m/s (12.50 km/h)
+   • Maximum speed:     14.04 m/s (50.56 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    2.96 m/s²
+   • Maximum deceleration:    0.52 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fe-a620-7bd0-a2d0-0864f73853bf  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 88.0° → at 2023-09-24 02:16:36.416482
+   • Final direction:   70.0° → at 2023-09-24 02:16:58.666482
+   • Net turn:          -18.0° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   5.01 m/s (18.02 km/h)
+   • Moving average:    6.87 m/s (24.72 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     14.85 m/s (53.46 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    12.36 m/s²
+   • Maximum deceleration:    2.55 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 3
+     └─ Stop #1: 2023-09-24 02:16:35.066482 → 2023-09-24 02:16:36.366482 (1.3 seconds)
+     └─ Stop #2: 2023-09-24 02:16:41.566482 → 2023-09-24 02:16:43.316482 (1.8 seconds)
+     └─ Stop #3: 2023-09-24 02:16:44.416482 → 2023-09-24 02:16:49.716482 (5.3 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fe-ac8b-75f3-a674-9ef2a9992525  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 346.6° ↑ at 2023-09-24 02:16:39.216482
+   • Final direction:   346.6° ↑ at 2023-09-24 02:16:43.766482
+   • Net turn:          0.0° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   10.92 m/s (39.30 km/h)
+   • Moving average:    10.92 m/s (39.30 km/h)
+   • Minimum speed:     9.06 m/s (32.61 km/h)
+   • Maximum speed:     12.29 m/s (44.24 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    6.42 m/s²
+   • Maximum deceleration:    2.09 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fe-b178-7ce0-a637-275c8362a4a4  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 84.0° → at 2023-09-24 02:16:50.666482
+   • Final direction:   70.5° → at 2023-09-24 02:17:01.316482
+   • Net turn:          -13.5° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   4.97 m/s (17.90 km/h)
+   • Moving average:    8.11 m/s (29.20 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     14.82 m/s (53.35 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    2.78 m/s²
+   • Maximum deceleration:    2.04 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:16:42.366482 → 2023-09-24 02:16:49.716482 (7.3 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fe-ba06-7362-a5f9-1a187b3f5dde  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 79.3° → at 2023-09-24 02:16:48.816482
+   • Final direction:   164.0° ↓ at 2023-09-24 02:18:06.766482
+   • Net turn:          84.7° ↰ (left turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   1.28 m/s (4.61 km/h)
+   • Moving average:    3.71 m/s (13.35 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     10.25 m/s (36.90 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    12.04 m/s²
+   • Maximum deceleration:    1.81 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 4
+     └─ Stop #1: 2023-09-24 02:16:47.916482 → 2023-09-24 02:16:48.766482 (0.9 seconds)
+     └─ Stop #2: 2023-09-24 02:16:57.016482 → 2023-09-24 02:17:11.816482 (14.8 seconds)
+     └─ Stop #3: 2023-09-24 02:17:12.916482 → 2023-09-24 02:17:34.416482 (21.5 seconds)
+     └─ Stop #4: 2023-09-24 02:17:36.416482 → 2023-09-24 02:17:56.966482 (20.5 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fe-cde2-7b41-b76b-07bf82e9e001  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 342.6° ↑ at 2023-09-24 02:17:00.716482
+   • Final direction:   28.9° ↑ at 2023-09-24 02:17:34.966482
+   • Net turn:          46.3° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   1.38 m/s (4.96 km/h)
+   • Moving average:    3.90 m/s (14.04 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     18.88 m/s (67.98 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    1.28 m/s²
+   • Maximum deceleration:    4.16 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 2
+     └─ Stop #1: 2023-09-24 02:17:08.416482 → 2023-09-24 02:17:19.166482 (10.8 seconds)
+     └─ Stop #2: 2023-09-24 02:17:20.366482 → 2023-09-24 02:17:36.716482 (16.3 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fe-dbac-7ef3-bc19-3775eecddaa6  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 158.6° ↓ at 2023-09-24 02:17:10.316482
+   • Final direction:   292.5° ← at 2023-09-24 02:17:18.949816
+   • Net turn:          133.9° ↰ (left turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   2.04 m/s (7.33 km/h)
+   • Moving average:    3.79 m/s (13.64 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     9.21 m/s (33.17 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    9.15 m/s²
+   • Maximum deceleration:    2.64 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 2
+     └─ Stop #1: 2023-09-24 02:17:09.516482 → 2023-09-24 02:17:10.266482 (0.8 seconds)
+     └─ Stop #2: 2023-09-24 02:17:15.916482 → 2023-09-24 02:17:24.916482 (9.0 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fe-e23e-7e43-87f6-f43210d49d91  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 327.0° ↑ at 2023-09-24 02:17:14.616482
+   • Final direction:   157.7° ↓ at 2023-09-24 02:17:25.266482
+   • Net turn:          -169.4° ↱ (right turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   8.63 m/s (31.05 km/h)
+   • Moving average:    9.23 m/s (33.22 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     14.02 m/s (50.48 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    12.52 m/s²
+   • Maximum deceleration:    3.15 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:17:13.816482 → 2023-09-24 02:17:14.566482 (0.8 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fe-f663-75b3-a52b-b8c4e4b67152  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 160.2° ↓ at 2023-09-24 02:17:27.466482
+   • Final direction:   73.1° → at 2023-09-24 02:17:35.666482
+   • Net turn:          -87.1° ↱ (right turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   6.18 m/s (22.25 km/h)
+   • Moving average:    6.66 m/s (23.99 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     14.59 m/s (52.52 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    5.18 m/s²
+   • Maximum deceleration:    1.13 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 2
+     └─ Stop #1: 2023-09-24 02:17:26.716482 → 2023-09-24 02:17:27.366482 (0.7 seconds)
+     └─ Stop #2: 2023-09-24 02:17:28.566482 → 2023-09-24 02:17:28.616482 (0.0 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5fe-f9b9-7f11-a9a0-204bc6a51e0f  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 159.6° ↓ at 2023-09-24 02:17:28.966482
+   • Final direction:   161.5° ↓ at 2023-09-24 02:17:34.766482
+   • Net turn:          1.8° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   8.85 m/s (31.87 km/h)
+   • Moving average:    8.85 m/s (31.87 km/h)
+   • Minimum speed:     5.38 m/s (19.37 km/h)
+   • Maximum speed:     11.43 m/s (41.13 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    2.94 m/s²
+   • Maximum deceleration:    0.97 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5ff-09d7-77c2-b83a-074f86574eea  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 339.3° ↑ at 2023-09-24 02:17:40.366482
+   • Final direction:   342.9° ↑ at 2023-09-24 02:17:50.466482
+   • Net turn:          3.6° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   6.95 m/s (25.03 km/h)
+   • Moving average:    7.60 m/s (27.36 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     11.52 m/s (41.47 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    8.19 m/s²
+   • Maximum deceleration:    0.57 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:17:39.366482 → 2023-09-24 02:17:40.316482 (1.0 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5ff-2535-74a2-8245-d215e93b3174  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 342.9° ↑ at 2023-09-24 02:17:57.316482
+   • Final direction:   327.1° ↑ at 2023-09-24 02:17:59.166482
+   • Net turn:          -15.8° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   4.74 m/s (17.07 km/h)
+   • Moving average:    5.23 m/s (18.82 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     7.10 m/s (25.56 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    4.23 m/s²
+   • Maximum deceleration:    1.73 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:17:57.066482 → 2023-09-24 02:17:57.266482 (0.2 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5ff-2b5b-70b2-8a45-26006431f4fa  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 303.2° ← at 2023-09-24 02:18:01.466482
+   • Final direction:   264.2° ← at 2023-09-24 02:18:06.366482
+   • Net turn:          -39.0° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   7.30 m/s (26.28 km/h)
+   • Moving average:    7.88 m/s (28.38 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     10.69 m/s (38.50 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    10.21 m/s²
+   • Maximum deceleration:    1.09 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:18:01.016482 → 2023-09-24 02:18:01.416482 (0.4 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5ff-3470-7951-b350-0fe3d6dfa19c  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 250.5° ← at 2023-09-24 02:18:11.666482
+   • Final direction:   256.2° ← at 2023-09-24 02:18:22.066482
+   • Net turn:          5.7° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   11.99 m/s (43.15 km/h)
+   • Moving average:    12.96 m/s (46.65 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     33.36 m/s (120.09 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    13.13 m/s²
+   • Maximum deceleration:    19.69 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 2
+     └─ Stop #1: 2023-09-24 02:18:10.966482 → 2023-09-24 02:18:11.616482 (0.7 seconds)
+     └─ Stop #2: 2023-09-24 02:18:22.116482 → 2023-09-24 02:18:22.316482 (0.2 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5ff-4c07-73b0-8afc-2f745e38e6a8  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 252.8° ← at 2023-09-24 02:18:31.466482
+   • Final direction:   262.5° ← at 2023-09-24 02:18:41.466482
+   • Net turn:          9.6° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   12.90 m/s (46.45 km/h)
+   • Moving average:    12.90 m/s (46.45 km/h)
+   • Minimum speed:     11.85 m/s (42.67 km/h)
+   • Maximum speed:     13.61 m/s (49.00 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    1.93 m/s²
+   • Maximum deceleration:    1.32 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5ff-544f-74f2-81bf-8717ef6b7528  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 90.3° → at 2023-09-24 02:18:36.816482
+   • Final direction:   82.3° → at 2023-09-24 02:18:46.716482
+   • Net turn:          -8.0° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   4.01 m/s (14.44 km/h)
+   • Moving average:    4.26 m/s (15.34 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     8.33 m/s (29.98 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    3.47 m/s²
+   • Maximum deceleration:    8.05 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:18:49.116482 → 2023-09-24 02:18:50.966482 (1.8 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5ff-6a8a-7a82-87b3-e631fa0cef63  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 90.5° → at 2023-09-24 02:19:24.966482
+   • Final direction:   167.1° ↓ at 2023-09-24 02:19:34.266482
+   • Net turn:          76.6° ↰ (left turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   4.46 m/s (16.06 km/h)
+   • Moving average:    4.46 m/s (16.06 km/h)
+   • Minimum speed:     2.97 m/s (10.69 km/h)
+   • Maximum speed:     7.66 m/s (27.58 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    1.76 m/s²
+   • Maximum deceleration:    1.09 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 0
+     └─ No stop events detected
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5ff-7dba-7471-9f6b-e68a2e57fbd0  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 251.8° ← at 2023-09-24 02:19:42.566482
+   • Final direction:   259.3° ← at 2023-09-24 02:19:48.216482
+   • Net turn:          7.4° ↑ (mostly straight)
+
+🚀 SPEED STATISTICS
+   • Overall average:   12.37 m/s (44.52 km/h)
+   • Moving average:    15.38 m/s (55.36 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     19.64 m/s (70.71 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    23.95 m/s²
+   • Maximum deceleration:    0.75 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 1
+     └─ Stop #1: 2023-09-24 02:19:41.116482 → 2023-09-24 02:19:42.516482 (1.4 seconds)
+
+================================================================================
+
+
+================================================================================
+*****  ANALYSIS REPORT FOR VEHICLE: 0195f5ff-847f-7860-824f-6518b23cb1d3  ******
+================================================================================
+
+📍 FINAL TURN ANALYSIS
+   • Initial direction: 248.2° ← at 2023-09-24 02:19:46.066482
+   • Final direction:   161.3° ↓ at 2023-09-24 02:20:08.866482
+   • Net turn:          -86.9° ↱ (right turn)
+
+🚀 SPEED STATISTICS
+   • Overall average:   4.45 m/s (16.03 km/h)
+   • Moving average:    5.63 m/s (20.27 km/h)
+   • Minimum speed:     0.00 m/s (0.00 km/h)
+   • Maximum speed:     18.34 m/s (66.02 km/h)
+
+⚡ ACCELERATION ANALYSIS
+   • Maximum acceleration:    14.13 m/s²
+   • Maximum deceleration:    2.87 m/s²
+
+🛑 STOP EVENTS
+   • Total stop events: 2
+     └─ Stop #1: 2023-09-24 02:19:45.466482 → 2023-09-24 02:19:46.016482 (0.6 seconds)
+     └─ Stop #2: 2023-09-24 02:19:51.216482 → 2023-09-24 02:19:55.666482 (4.5 seconds)
+
+================================================================================
+
