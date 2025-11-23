@@ -1,0 +1,11 @@
+{
+    "cluster_id": 45,
+    "num_vehicles": 1,
+    "vehicles": [
+        {
+            "vehicle_id": "0195f60d-43b7-75a0-b914-d18993bde0c1",
+            "start_time": "2023-09-24 01:23:13",
+            "end_time": "2023-09-24 01:23:47"
+        }
+    ]
+}

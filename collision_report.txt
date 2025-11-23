@@ -1,0 +1,129 @@
+VEHICLE COLLISION DETECTION REPORT
+==================================================
+
+Total vehicles analyzed: 450
+Total data points: 142235
+Collision events detected: 10
+
+ID    | VEHICLE A       | VEHICLE B       | DISTANCE   | SEVERITY   | TIMESTAMP                 
+------------------------------------------------------------------------------------------
+1     | 0195f604-676d-73a3-b36e-175846386e0b | 0195f604-69f8-7da2-872a-9be7e37a45ff | 0.53 m     | MEDIUM     | 2023-09-24 02:39:13.041   
+
+Detailed information for collision #1:
+  Vehicle A: 0195f604-676d-73a3-b36e-175846386e0b
+    Time: 2023-09-24 02:39:13.016
+    Position: (10.535704, 52.275442)
+  Vehicle B: 0195f604-69f8-7da2-872a-9be7e37a45ff
+    Time: 2023-09-24 02:39:13.066
+    Position: (10.535703, 52.275438)
+  Separation: 0.53 meters
+  Time difference: 0.050 seconds
+  Severity: MEDIUM
+2     | 0195f60a-2ba0-7bc2-aa76-669e3a60e9a3 | 0195f60a-2776-7fc1-a05d-730ff8865fae | 0.61 m     | MEDIUM     | 2023-09-24 03:08:54.416   
+
+Detailed information for collision #2:
+  Vehicle A: 0195f60a-2ba0-7bc2-aa76-669e3a60e9a3
+    Time: 2023-09-24 03:08:54.366
+    Position: (10.534740, 52.275343)
+  Vehicle B: 0195f60a-2776-7fc1-a05d-730ff8865fae
+    Time: 2023-09-24 03:08:54.466
+    Position: (10.534743, 52.275337)
+  Separation: 0.61 meters
+  Time difference: 0.100 seconds
+  Severity: MEDIUM
+3     | 0195f603-00d6-72f2-9041-f74ad0843ae0 | 0195f602-f31a-7261-afdf-8a269953d9b2 | 0.88 m     | MEDIUM     | 2023-09-24 02:31:56.116   
+
+Detailed information for collision #3:
+  Vehicle A: 0195f603-00d6-72f2-9041-f74ad0843ae0
+    Time: 2023-09-24 02:31:56.066
+    Position: (10.535565, 52.275781)
+  Vehicle B: 0195f602-f31a-7261-afdf-8a269953d9b2
+    Time: 2023-09-24 02:31:56.166
+    Position: (10.535576, 52.275776)
+  Separation: 0.88 meters
+  Time difference: 0.100 seconds
+  Severity: MEDIUM
+4     | 0195f602-c5b3-7cf1-9160-51b8c1a780de | 0195f602-784c-7fa0-837e-4a1063a666fa | 1.82 m     | LOW        | 2023-09-24 02:31:04.666   
+
+Detailed information for collision #4:
+  Vehicle A: 0195f602-c5b3-7cf1-9160-51b8c1a780de
+    Time: 2023-09-24 02:31:04.616
+    Position: (10.535766, 52.275634)
+  Vehicle B: 0195f602-784c-7fa0-837e-4a1063a666fa
+    Time: 2023-09-24 02:31:04.716
+    Position: (10.535792, 52.275639)
+  Separation: 1.82 meters
+  Time difference: 0.100 seconds
+  Severity: LOW
+5     | 0195f613-2a31-7f51-8183-efd702dd9ea0 | 0195f612-d6fd-7660-b39e-c800f6416486 | 2.38 m     | LOW        | 2023-09-24 03:50:25.166   
+
+Detailed information for collision #5:
+  Vehicle A: 0195f613-2a31-7f51-8183-efd702dd9ea0
+    Time: 2023-09-24 03:50:25.116
+    Position: (10.535612, 52.275610)
+  Vehicle B: 0195f612-d6fd-7660-b39e-c800f6416486
+    Time: 2023-09-24 03:50:25.216
+    Position: (10.535645, 52.275616)
+  Separation: 2.38 meters
+  Time difference: 0.100 seconds
+  Severity: LOW
+6     | 0195f617-b084-7b60-a38d-9c3ccfb98bce | 0195f617-ae63-70b3-9dcf-988ba5b74970 | 2.47 m     | LOW        | 2023-09-24 04:07:24.991   
+
+Detailed information for collision #6:
+  Vehicle A: 0195f617-b084-7b60-a38d-9c3ccfb98bce
+    Time: 2023-09-24 04:07:24.966
+    Position: (10.536497, 52.275737)
+  Vehicle B: 0195f617-ae63-70b3-9dcf-988ba5b74970
+    Time: 2023-09-24 04:07:25.016
+    Position: (10.536487, 52.275758)
+  Separation: 2.47 meters
+  Time difference: 0.050 seconds
+  Severity: LOW
+7     | 0195f604-676d-73a3-b36e-175846386e0b | 0195f604-69f8-7da2-872a-9be7e37a45ff | 2.64 m     | LOW        | 2023-09-24 02:39:16.491   
+
+Detailed information for collision #7:
+  Vehicle A: 0195f604-676d-73a3-b36e-175846386e0b
+    Time: 2023-09-24 02:39:16.466
+    Position: (10.535428, 52.275559)
+  Vehicle B: 0195f604-69f8-7da2-872a-9be7e37a45ff
+    Time: 2023-09-24 02:39:16.516
+    Position: (10.535462, 52.275547)
+  Separation: 2.64 meters
+  Time difference: 0.050 seconds
+  Severity: LOW
+8     | 0195f610-a620-7580-81f8-f1ec241f21c4 | 0195f610-5921-77c3-b7af-0e67651f4832 | 2.85 m     | LOW        | 2023-09-24 03:36:13.316   
+
+Detailed information for collision #8:
+  Vehicle A: 0195f610-a620-7580-81f8-f1ec241f21c4
+    Time: 2023-09-24 03:36:13.266
+    Position: (10.536001, 52.275663)
+  Vehicle B: 0195f610-5921-77c3-b7af-0e67651f4832
+    Time: 2023-09-24 03:36:13.366
+    Position: (10.536034, 52.275679)
+  Separation: 2.85 meters
+  Time difference: 0.100 seconds
+  Severity: LOW
+9     | 0195f608-8519-7e23-8c6c-c613005e68eb | 0195f608-8286-7583-942e-acb870e73b0f | 2.90 m     | LOW        | 2023-09-24 03:01:56.816   
+
+Detailed information for collision #9:
+  Vehicle A: 0195f608-8519-7e23-8c6c-c613005e68eb
+    Time: 2023-09-24 03:01:56.766
+    Position: (10.535126, 52.275440)
+  Vehicle B: 0195f608-8286-7583-942e-acb870e73b0f
+    Time: 2023-09-24 03:01:56.866
+    Position: (10.535129, 52.275414)
+  Separation: 2.90 meters
+  Time difference: 0.100 seconds
+  Severity: LOW
+10    | 0195f609-906e-7cc3-9f8c-4056a3397022 | 0195f609-8a73-7d62-93e4-fff6ffe8a8e7 | 2.97 m     | LOW        | 2023-09-24 03:06:23.916   
+
+Detailed information for collision #10:
+  Vehicle A: 0195f609-906e-7cc3-9f8c-4056a3397022
+    Time: 2023-09-24 03:06:23.916
+    Position: (10.535169, 52.275449)
+  Vehicle B: 0195f609-8a73-7d62-93e4-fff6ffe8a8e7
+    Time: 2023-09-24 03:06:23.916
+    Position: (10.535173, 52.275422)
+  Separation: 2.97 meters
+  Time difference: 0.000 seconds
+  Severity: LOW
