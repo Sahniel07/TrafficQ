@@ -5,9 +5,9 @@ import base64
 from datetime import datetime
 import json
 
-# Set API key directly in the code
+# API key is read from the environment: set DASHSCOPE_API_KEY before running
 import dashscope
-dashscope.api_key = "REMOVED"
+dashscope.api_key = os.environ["DASHSCOPE_API_KEY"]
 # Set international API URL
 dashscope.base_http_api_url = 'https://dashscope-intl.aliyuncs.com/api/v1'
 

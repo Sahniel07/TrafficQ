@@ -182,7 +182,7 @@ This project utilizes a series of computational geometry, machine learning, and 
     * `vehicleAnsys.py` / `bearDect.py`: Single trajectory motion/turn analysis
     * `vehicle_trajectory_video.py`: Generates trajectory animations
 
-*   **Dependencies**: Major dependencies include `numpy`, `pandas`, `scipy`, `scikit-learn`, `fastdtw`, `matplotlib`, `networkx`, `contextily`, `tqdm`, `colorama`, etc. Install using `pip install -r requirements.txt` (if provided) or manually.
+*   **Dependencies**: Major dependencies include `numpy`, `pandas`, `scipy`, `scikit-learn`, `fastdtw`, `matplotlib`, `networkx`, `contextily`, `tqdm`, `colorama`, etc. Install with `pip install -r requirements.txt`. The two LLM scripts (`llm_png_anlyze.py`, `llm_video_analyze.py`) read the DashScope API key from the environment variable `DASHSCOPE_API_KEY`.
 
 *   **Execution**: Typically run directly using `python <script_name.py>`. Some scripts may require modifying internal file paths or specifying input/output files via command-line arguments. Refer to comments within the scripts or use `--help` (if supported).
 

@@ -9,7 +9,7 @@ def encode_video(video_path):
         return base64.b64encode(video_file.read()).decode("utf-8")
 
 # Prepare request
-api_key = "REMOVED"
+api_key = os.environ["DASHSCOPE_API_KEY"]
 # Use OpenAI compatible interface
 url = "https://dashscope-intl.aliyuncs.com/compatible-mode/v1/chat/completions"
 

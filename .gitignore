@@ -1,2 +1,7 @@
 hackton.zip
 response.json
+
+__pycache__/
+*.pyc
+node_modules/
+.env
