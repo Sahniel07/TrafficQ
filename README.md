@@ -1,4 +1,44 @@
-# 🚗 Vehicle Trajectory Analysis and Visualization System
+# TrafficQ: collision-risk detection in real vehicle trajectories, with LLM-written reports
+
+**Hackathon10, 3rd place.** Python pipeline that takes raw GPS trajectories, finds near-collisions, groups similar driving paths, and has a multimodal LLM (Qwen-VL-Max) turn each event into a readable risk report.
+
+![Trajectory clusters on the map](all_trajectory_clusters_with_map_v1.png)
+
+## At a glance
+| | |
+|---|---|
+| Input | 450 vehicles, 142,235 GPS points (`data.json`, `data_2.json`) |
+| Output | 10 close-approach events (closest 0.53 m), trajectory clusters, animations, LLM risk reports |
+| Methods | Haversine distance, KD-tree + time binning for collision search, DTW + DBSCAN for trajectory clustering |
+| LLM part | `llm_video_analyze.py` sends the event animation and a structured prompt to Qwen-VL-Max and gets back a Markdown report |
+| Stack | Python, NumPy, pandas, SciPy, scikit-learn, fastdtw, NetworkX, Matplotlib |
+
+## Results you can open
+- Collision report: [`collision_report.txt`](collision_report.txt)
+- Event animation: [`collision_videos/M_0.53m_46386e0b_e37a45ff.mp4`](collision_videos/M_0.53m_46386e0b_e37a45ff.mp4)
+- LLM report for the same event: [`analysis_results/medium_event_1.md`](analysis_results/medium_event_1.md)
+- Cluster maps: [`multi_vehicle_clusters/`](multi_vehicle_clusters/)
+
+## How it works
+1. `sort_trajectory.py` sorts points by time.
+2. `collisionDetect.py` bins points into short time windows, builds a KD-tree per window and lists vehicle pairs closer than the threshold, so it avoids checking every pair.
+3. `dbscan_trajectory_clustering.py` compares trajectories with DTW (pre-filtered by centroid distance, computed in parallel) and clusters them with DBSCAN.
+4. `vehicle_trajectory_video.py` renders each event; `llm_video_analyze.py` asks the LLM to judge risk, key moments and evasive behaviour.
+
+## Run it
+```bash
+pip install -r requirements.txt
+python collisionDetect.py
+export DASHSCOPE_API_KEY=...   # only for the LLM scripts
+python llm_video_analyze.py
+```
+
+## What I would do next
+Check the LLM reports against hand-labelled events to measure how often its risk judgement is right, and replace the file paths inside the scripts with command-line arguments.
+
+---
+
+## Algorithm notes (full detail)
 ## Core Algorithm Details
 
 ![Version](https://img.shields.io/badge/Version-1.0-blue)
